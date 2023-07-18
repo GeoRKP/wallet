@@ -1,6 +1,6 @@
 import React from 'react';
-import {ContactForm} from "./ContactsForm";
-import {ContactList} from "./ContactsList";
+import {ContactForm} from "./ContactForm";
+import {ContactList} from "./ContactList";
 
 export const App = () => (
   <div>
